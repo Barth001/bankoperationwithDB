@@ -135,7 +135,7 @@ def login():
 
 
 def logout():
-    print("Thanks for banking with us")
+    print("Thanks for banking with us\nBYE")
     return
 
 
